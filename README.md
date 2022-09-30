@@ -26,7 +26,7 @@ Como recuperar os clientes de determinado sexo e que moram em certo bairro?
 Como recuperar os clientes cujo DDD seja de São Paulo (11)?
 Pare um pouco e pense pelo menos em mais de 20 situações que envolvam Inserção, Alteração e Exclusão de dados, além de Consultas que podem ser feitas neste banco de dados. Para cada uma escreva o comando SQL equivalente.
 
-Por fim, é isso programador (SQL), assuma seu posto de responsável pelo módulo de Clientes do sistema da Loja Virtual e sucesso! Ao final disponibilize seu trabalho no fórum da seção</p><br>
+Por fim, é isso programador (SQL), assuma seu posto de responsável pelo módulo de Clientes do sistema da Loja Virtual e sucesso! Ao final disponibilize seu trabalho no fórum da seção.</p><br>
     
 
       
